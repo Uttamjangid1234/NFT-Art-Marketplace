@@ -46,3 +46,6 @@ contract NFTArtMarketplace {
 
 This smart contract is the foundation for a fully decentralized NFT Art Marketplace. 🚀
 
+Contract Address:0xc7C69F02dac51eC89Ecda7a766eb6A6f56232cD
+
+
